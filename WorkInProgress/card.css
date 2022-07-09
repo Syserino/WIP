@@ -1,0 +1,126 @@
+body {
+    background-color: gray;
+}
+
+.card {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(197, 194, 197);
+    border-radius: 3%;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 10px;
+    float: left;
+}
+
+.card:hover {
+    background-color: rgb(0, 0, 0);
+    border-radius: 3%;
+    margin-top: 10px;
+    color:white
+}
+
+.immagine {
+    height: 100px;
+    width: 130px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 3%;
+    background-image: url(frasi-sul-tramonto-1000x630.jpg);
+    background-size: cover;
+}
+
+.statistiche {
+    width: 120px;
+    height: 20px;
+    margin: 5px 15px;
+}
+
+.visual {
+    width: 38px;
+    margin-top: 5px;
+    margin-left: 3px;
+    font-size: 8px;
+    float: left;
+    display: block;
+}
+
+.cuore {
+    width: 18px;
+    height: 18px;
+    float: left;
+}
+
+.occhio {
+    width: 18px;
+    height: 18px;
+    float: left;
+}
+
+.descrizione {
+    height: 80px;
+    width: 120px;
+    margin: 5px 15px;
+    font-size: 10px;
+    display: block;
+}
+
+.compra {
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 9%;
+    width: 100px;
+    font-size: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.compra:hover {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(252, 252, 252);
+}
+
+.card {
+    height: 210px;
+    width: 130px;
+    background-color: rgb(197, 194, 197);
+    border-radius: 3%;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 10px;
+    float: left;
+  }
+  
+  .immagine {
+    height: 80px;
+    width: 110px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 3%;
+    background-image: url(frasi-sul-tramonto-1000x630.jpg);
+    background-size: cover;
+  }
+  
+  .statistiche {
+    width: 100px;
+    height: 20px;
+    margin: 5px 15px;
+  }
+  
+  .visual {
+    width: 29px;
+    margin-top: 5px;
+    margin-left: 3px;
+    font-size: 8px;
+    float: left;
+    display: block;
+  }
+  
+  .descrizione {
+    height: 63px;
+    width: 100px;
+    margin: 5px 15px;
+    font-size: 10px;
+    display: block;
+  }
